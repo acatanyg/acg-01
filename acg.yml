@@ -1,0 +1,20 @@
+picture_path: acg
+pictures:
+- filename: image001
+  original: image001-3648x2736.jpg
+  sizes:
+  - image001-1824x1368.jpg
+  - image001-912x684.jpg
+  thumbnail: image001-912x684.jpg
+- filename: image002
+  original: image002-2736x3648.jpg
+  sizes:
+  - image002-1368x1824.jpg
+  - image002-684x912.jpg
+  thumbnail: image002-684x912.jpg
+- filename: image003
+  original: image003-2736x3648.jpg
+  sizes:
+  - image003-1368x1824.jpg
+  - image003-684x912.jpg
+  thumbnail: image003-684x912.jpg
