@@ -1,0 +1,10 @@
+PS O:\> python .\gallery_creator.py
+PS O:\> pip install imagesize pyyaml
+PS O:\> python module
+
+PS O:\> bundle exec jekyll serve --incremental
+
+PS O:\> bundle init
+PS O:\> bundle
+PS O:\> gem init
+PS O:\> gen install jekill
